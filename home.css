@@ -1,0 +1,17 @@
+body {
+    background-image: url(blacksparkles.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: ;
+    }
+  form {
+      text-align: center;
+  }
+
+  label {
+      color: white;
+  }
+
+  .button {
+      text-align: center;
+  }

@@ -1,0 +1,25 @@
+body {
+background-image: url(pinkpurple.gif);
+background-size: cover;
+background-repeat: no-repeat;
+text-align: ;
+}
+p {
+    color: black;
+    text-align: center;
+    font-family: 'Big Shoulders Inline Text'; font-size: 50px;
+}
+
+.TopNavBar {
+    
+    background-color: aqua;
+    justify-content: center;
+}
+
+.Navbar {
+    color: rgb(252, 6, 141);
+    font-size: 25px;
+    padding: 130px;
+    text-align: center;
+}
+
